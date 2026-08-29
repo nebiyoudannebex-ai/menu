@@ -1,0 +1,6 @@
+{
+  "name": "AI Restaurant Digital Menu Generator",
+  "description": "Upload or photograph paper/PDF menus to automatically extract items with AI Vision/OCR, generate custom branded mobile digital menus, switch themes, edit items, and export QR codes with full Ethiopian & multilingual support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
